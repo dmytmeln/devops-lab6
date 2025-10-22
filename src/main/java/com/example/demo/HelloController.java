@@ -13,7 +13,7 @@ public class HelloController {
     }
 
     public String unusedMethod() {
-        return "This is not tested. Some changes";
+        return "This is not tested.";
     }
 
 }
